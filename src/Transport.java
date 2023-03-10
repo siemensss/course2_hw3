@@ -13,4 +13,5 @@ public abstract class Transport implements TyreUpdatable {
     public int getWheelsCount() {
         return wheelsCount;
     }
+
 }
