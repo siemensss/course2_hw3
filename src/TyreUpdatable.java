@@ -1,5 +1,5 @@
 public interface TyreUpdatable {
-    public void updateTyre();
-    public void checkEngine();
-    public void checkTrailer();
+     void updateTyre();
+     void checkEngine();
+     void checkTrailer();
 }
